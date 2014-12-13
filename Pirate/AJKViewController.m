@@ -8,8 +8,6 @@
 
 #import "AJKViewController.h"
 
-#import "Model"
-
 #import "AJKTile.h"
 #import "AJKFactory.h"
 #import "AJKCharacter.h"
